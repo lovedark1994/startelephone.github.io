@@ -3869,7 +3869,7 @@ self.C3_ExpressionFuncs = [
 		() => "",
 		() => "播",
 		() => "撥號中...",
-		() => "https://line.me/R/oaMessage/@679fzlll/?%E6%A9%9F%E5%A0%B4%E5%BB%A3%E6%92%AD%28%E8%AB%8B%E6%8C%89%E8%BC%B8%E5%85%A5%29\n"
+		() => "https://line.me/R/oaMessage/@ekj2840w/?%E6%A9%9F%E5%A0%B4%E5%BB%A3%E6%92%AD%28%E8%AB%8B%E6%8C%89%E8%BC%B8%E5%85%A5%29\n"
 ];
 
 
